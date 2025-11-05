@@ -1,0 +1,293 @@
+---
+title: "Diversidad Genética del Vector de la enfermedad de Chagas *Triatoma dimidiata s.l.* en una región prioritaria de control"
+title-slide-attributes:
+  data-background-image: "https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA"
+  
+  data-background-size: contain
+  data-background-opacity: "0.5"
+subtitle: "Análisis a escalas geográficas en un área prioritaria para el control"
+author: "Sergio Melgar, Salvador Castellanos, Lori Stevens, María Carlota Monroy, Patricia L. Dorn"
+institute: "Universidad de San Carlos de Guatemala, University of Vermont, Loyola University New Orleans, Journal of Medical Entomology, 61(6), 2024"
+date: "12/11/2025"
+fontsize: 2.0em
+format: 
+  revealjs:
+    transition: convex
+    scrollable: true
+    preview-links: true
+    chalkboard: true
+    theme: default #beige #simple
+    slide-number: c/t
+    # Quarto recomienda el uso de un editor visual o un motor de renderizado para compilar las diapositivas.
+    # Esta es solo la sintaxis Markdown que lo estructura.
+editor: visual
+#view: scroll
+---
+
+## Introducción: Chagas y su Vector {.smaller}
+
+-   **Enfermedad de Chagas:** Es una enfermedad parasitaria con **gran carga económica en América Latina**.
+-   Aproximadamente **6 a 7 millones de personas** están infectadas con *Trypanosoma cruzi*, el agente causal.
+
+::::: columns
+::: {.column width="50%"}
+![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/7/7a/Chagoma.jpg){.r-stretch width="250"}
+:::
+
+::: {.column width="50%"}
+![Casa de adobe](https://upload.wikimedia.org/wikipedia/commons/4/45/Casa_de_adobe%2C_%C3%A1rea_rural_de_Guanajuato%2C_M%C3%A9xico.jpg){width="250"}
+:::
+:::::
+
+## Introducción: Chagas y su Vector {.smaller}
+
+-   **Vector Predominante:** *Triatoma dimidiata s.l.* (Latreille, 1811) es el vector principal de la enfermedad Chagas a lo largo de un amplio rango geográfico, incluyendo el sur de México, Centroamérica y el norte de Ecuador y Colombia.
+-   **Prioridad de Control:** Una comisión intergubernamental determinó que, para Centroamérica, la prioridad es el control de *T. dimidiata s.l.* para eliminar la transmisión.
+
+![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/8/83/Triatoma_dimidiata-adult.jpg){width="400"}
+
+## Introducción: Chagas y su Vector {.smaller}
+
+-   Un foco de control prioritario se ha recomendado en el área fronteriza entre **Guatemala y El Salvador**, debido a la transmisión activa y la colonización de casas por los vectores.
+-   **Estructura Genética y Control:** Comprender la estructura genética de las poblaciones de vectores proporciona información crucial sobre el movimiento, el potencial de dispersión y la escala geográfica necesaria para un control efectivo.
+
+::::: columns
+::: {.column width="50%"}
+![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/8/83/Triatoma_dimidiata-adult.jpg){alt="Triatoma dimidiata" width="400"}
+:::
+
+::: {.column width="50%"}
+![Mapa de la región de estudio.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Mapa de la región de estudio."}
+:::
+:::::
+
+------------------------------------------------------------------------
+
+## El Complejo *T. dimidiata s.l.* {.smaller}
+
+-   *T. dimidiata s.l.* exhibe distintas preferencias de hábitat y patrones migratorios en diferentes localidades.
+-   En la mayor parte de su distribución, se encuentra predominantemente en **hábitats domésticos y peridomésticos** (alrededor de las casas), aunque en otras regiones permanece silvestre, invadiendo estacionalmente las viviendas.
+
+![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/8/83/Triatoma_dimidiata-adult.jpg){width="400"}
+
+------------------------------------------------------------------------
+
+## El Complejo *T. dimidiata s.l.* {.smaller}
+
+-   Es un **complejo altamente diverso**. Se ha observado una fuerte diferenciación genética que ha llevado a la descripción de nuevas especies, como *T. mopan* (Belice) y *T. huehuetenanguensis* (Guatemala).
+-   **Estudios Previos en Guatemala:** Estudios anteriores en el sur de Guatemala sugirieron patrones de migración limitados y una fuerte estructuración genética a nivel de hogar. El movimiento ocurría principalmente entre casas vecinas.
+-   No estaba claro si esta migración limitada se aplicaba a otras localidades y a diferentes escalas espaciales.
+
+![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/8/83/Triatoma_dimidiata-adult.jpg){width="300"}
+
+------------------------------------------------------------------------
+
+[![Dos especies de *Triatoma* de Guatemala. A y B: *T. dimidiata* de Jutiapa y Huehuetenango, C: *T. huehuetenanguensis.*](https://upload.wikimedia.org/wikipedia/commons/9/9e/Triatoma_%2810.3897-zookeys.820.27258%29_Figure_2.jpg)](https://commons.wikimedia.org/wiki/File:Triatoma_(10.3897-zookeys.820.27258)_Figure_2.jpg)
+
+------------------------------------------------------------------------
+
+## Objetivo {.smaller}
+
+-   **Objetivo:** Investigar la **estructura genética** y la influencia de **factores ambientales** en la población de *T. dimidiata s.l.* en la frontera Guatemala-El Salvador.
+-   **Importancia:** Esta es la primera investigación exhaustiva de la estructura genética de *T. dimidiata s.l.* que incluye un alto número de especímenes a lo largo de una amplia área geográfica, utilizando múltiples escalas espaciales y una gran cantidad de marcadores genómicos.
+
+[![Macho de *Triatoma dimidiata*](https://upload.wikimedia.org/wikipedia/commons/9/9a/Triatoma_dimidiata_male.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_male.png)
+
+## Metodología {.smaller}
+
+-   **Muestras y Área de Estudio:** Se analizaron **50 especímenes** de 12 aldeas distribuidas en 5 departamentos (2 en Guatemala, 3 en El Salvador) cerca de la frontera.
+    -   Guatemala: Chiquimula y Jutiapa.
+    -   El Salvador: Ahuachapán, Santa Ana y Sonsonate.
+
+[![Localización de los sitios de muestreo.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig1.jpeg?Expires=1763593476&Signature=ylLW-tnVE0oqSUzMfIiju1RHHR2cXoqmQDgcaWVi5iEDqOhTYHlWu369ncLW0rYqGHijjpi-ICA6l9ZMmz6107cB9Z9sG9xc8bO~FuHPVr5RopXwxb7fJpEeuzMlxstBA4RU2usbXD0bkC5u6RlQ2xzQTZduWyNJtGmhwNPAMe4LFt2RmRLXsfXOiMoieDYvd~FFg9EivA0xT7VSA~mfzu0kUgiLi3uo~9WpK8sHJyZ~JEZhPOqhFNaQ9fQgWEFRecFZx5NPoeyhdcmHnQFTg0WW-MDOvYlU5x5193et~Hg-fkWq1pKNBaKIo0~~pYlxlQS67PpVwPzIWPeFbKcJgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){.r-stretch width="250"}](https://academic.oup.com/jme/article/61/6/1309/7708333)
+
+## Metodología {.smaller}
+
+-   **Marcadores Genéticos:** Se empleó un alto número de **marcadores SNP a escala genómica** (930 SNPs).
+-   **Análisis Clave:**
+    -   **Mezcla genética (SNMF):** Determinación del número de clústeres genéticos (K) mediante Factorización de Matrices No Negativas Dispersas.
+    -   **Diferenciación Genética (F~ST~):** Entre pares de departamentos.
+    -   **Diversidad y Endogamia (F~IS~):** Heterocigosidad observada (Ho) vs. esperada (Hs).
+    -   **Correlación Ambiental:** Prueba de Mantel para correlacionar distancia genética con distancia geográfica, elevación, precipitación y temperatura.
+
+[![Flujo génico](https://upload.wikimedia.org/wikipedia/commons/4/47/Gene_flow_final.png){.r-stretch width="300"}](https://commons.wikimedia.org/wiki/File:Gene_flow_final.png)
+
+------------------------------------------------------------------------
+
+## Resultados: Estructura Poblacional (K=3) {.smaller}
+
+-   **Clústeres Genéticos (K=3):** El número estimado de clústeres genéticos es K=3, según el análisis de mezclas (SNMF).
+
+[![Grupos genéticos.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig2.jpeg?Expires=1763593476&Signature=49xdxchexulVEY4Bl0TzcB3qCJfjThOFEC~VTehEIF93y8OZcSj3~frEBWOgRmnFnGOuDadK23W-ksohspwgfMXuVGKBmU7IFXCj13YPVVVFMlFY9Qg1Z8Zo-91niK9iOfJ4MfuHbzhXfHDsDObwgCmMG-3bZ4yE~R7RcSQYGLwyZ08iPuOqZ9YXXRQ4emDIn2q9DxXBM0ZsD2-LkcYDqRWpy-E33eJrZ8kRQE-W7-Pqu8vdtc7dYzeTS3nr3gWD0CicWhgaK4tQNWLaAyeLokL0RXdJZ5SUvvNz8eqG7L2amybf46~1TmitjQOkH55TXy7CeIpI531VJCgofFXesQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){.r-stretch width="300"}](https://academic.oup.com/jme/article/61/6/1309/7708333)
+
+## Diferenciación entre Países (Escala Amplia)
+
+-   **Estructura Distinta:** Se observaron diferencias claras entre los dos países (K=2). Guatemala predominantemente pertenece a un grupo, mientras que El Salvador muestra otro, aunque con indicaciones de mezcla entre ellos.
+-   **Restricción de Movimiento:** El movimiento restringido entre países se apoya en las distintas frecuencias alélicas y el agrupamiento de la mayoría de los individuos en sus respectivos países.
+
+::::: columns
+::: {.column width="50%"}
+![Grupos genéticos.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig2.jpeg?Expires=1763593476&Signature=49xdxchexulVEY4Bl0TzcB3qCJfjThOFEC~VTehEIF93y8OZcSj3~frEBWOgRmnFnGOuDadK23W-ksohspwgfMXuVGKBmU7IFXCj13YPVVVFMlFY9Qg1Z8Zo-91niK9iOfJ4MfuHbzhXfHDsDObwgCmMG-3bZ4yE~R7RcSQYGLwyZ08iPuOqZ9YXXRQ4emDIn2q9DxXBM0ZsD2-LkcYDqRWpy-E33eJrZ8kRQE-W7-Pqu8vdtc7dYzeTS3nr3gWD0CicWhgaK4tQNWLaAyeLokL0RXdJZ5SUvvNz8eqG7L2amybf46~1TmitjQOkH55TXy7CeIpI531VJCgofFXesQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width="250"}
+:::
+
+::: {.column width="50%"}
+[![DAPC (Análisis Discriminante de Componentes Principales)](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig5.jpeg?Expires=1763593476&Signature=E39qgxtrfENiQYhpX2MsvDvEGk5-SElh7MJmHp3doneJq9ZykGHsLpYrhCza0RdFMmkM69YyVB~UWIFmqTu0bbE~ORXq3-tz8pm3ovk25~JZGfZNEszfCDQ310AFOR1GAorwUU-0TAGBrxXZwFp4YqZHeHAkvEGWB-kbmh3VIWTkmwMrk3E54ozjJ3E~VdJFwjR61m5uuAgvQrLRjHAcJd91ht-gcr9KceBH7RPvhhSWwEPgPCmLbzQzKsObsdqyv3qdj8GVbgdrCNl95zCSgiBRoqzZW9UrV-WBXh2QMq3zQhXqtStZfz3X9cmNtY2uK~MhkEXQYLndiznRZtR1DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width="250"}](https://academic.oup.com/jme/article/61/6/1309/7708333)
+:::
+:::::
+
+## Diferenciación entre Países (Escala Amplia)
+
+-   **Grupos formados en DAPC (K=3):** El análisis de DAPC reveló dos clústeres compuestos exclusivamente por especímenes de cada país (A y C), y un tercer clúster (C, según la Figura 5) con especímenes de **ambos países**.
+
+![DAPC](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig5.jpeg?Expires=1763593476&Signature=E39qgxtrfENiQYhpX2MsvDvEGk5-SElh7MJmHp3doneJq9ZykGHsLpYrhCza0RdFMmkM69YyVB~UWIFmqTu0bbE~ORXq3-tz8pm3ovk25~JZGfZNEszfCDQ310AFOR1GAorwUU-0TAGBrxXZwFp4YqZHeHAkvEGWB-kbmh3VIWTkmwMrk3E54ozjJ3E~VdJFwjR61m5uuAgvQrLRjHAcJd91ht-gcr9KceBH7RPvhhSWwEPgPCmLbzQzKsObsdqyv3qdj8GVbgdrCNl95zCSgiBRoqzZW9UrV-WBXh2QMq3zQhXqtStZfz3X9cmNtY2uK~MhkEXQYLndiznRZtR1DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="DAPC" width="400"}
+
+---
+
+![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig5.jpeg?Expires=1763593476&Signature=E39qgxtrfENiQYhpX2MsvDvEGk5-SElh7MJmHp3doneJq9ZykGHsLpYrhCza0RdFMmkM69YyVB~UWIFmqTu0bbE~ORXq3-tz8pm3ovk25~JZGfZNEszfCDQ310AFOR1GAorwUU-0TAGBrxXZwFp4YqZHeHAkvEGWB-kbmh3VIWTkmwMrk3E54ozjJ3E~VdJFwjR61m5uuAgvQrLRjHAcJd91ht-gcr9KceBH7RPvhhSWwEPgPCmLbzQzKsObsdqyv3qdj8GVbgdrCNl95zCSgiBRoqzZW9UrV-WBXh2QMq3zQhXqtStZfz3X9cmNtY2uK~MhkEXQYLndiznRZtR1DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="DAPC" width="500"}
+
+## Flujo Genético y Diferenciación entre Departamentos
+
+-   **Diferenciación** $F_{ST}$: La diferenciación genética entre departamentos fue de **baja a moderada**.
+    -   La diferenciación dentro de El Salvador es baja.
+    -   La diferenciación dentro de Guatemala es moderada.
+
+[![Dendrograma basado en FST](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig3.jpeg?Expires=1763593476&Signature=gftUQIAgSSPLCWhnOzThd98-DjT2U8PfK52T5UMVTGmbaBOvOIDbaMSluX808lvNeJzEzIiq28B2pgJROi9VmbeQNFC6tmmaDMWSvoROnLcFTmo4jijeIDYiS6Xtt5r41zYQSjG6hWvrgZwAD4kbpAvATD95Xl-uxRfFA4IiV992x4GENJlSwSR0lNLbMVR4IiehPFx63iupgEciUk0JQExGQbL-hLmE9vC7OrkLVymWDGfajarh2AYMV4PPhxrTQd2304vzSC9NtkShFAxa6zrZpXtd4VQpOAkQO~ghJ~eo4wEoEzAdBpLWOegn-~wek5qP6MQitTOcequuzt8i1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){.r-stretch width="300"}](https://academic.oup.com/jme/article/61/6/1309/7708333)
+
+## Flujo Genético y Diferenciación entre Departamentos
+
+-   **Mayor Diferenciación:** Chiquimula, Guatemala, mostró la mayor diferenciación genética.
+-   **Mayor Movimiento en El Salvador:** Los resultados muestran **mayor movimiento** (flujo genético) entre departamentos en El Salvador que entre departamentos en Guatemala.
+
+![Dendrograma basado en FST](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig3.jpeg?Expires=1763593476&Signature=gftUQIAgSSPLCWhnOzThd98-DjT2U8PfK52T5UMVTGmbaBOvOIDbaMSluX808lvNeJzEzIiq28B2pgJROi9VmbeQNFC6tmmaDMWSvoROnLcFTmo4jijeIDYiS6Xtt5r41zYQSjG6hWvrgZwAD4kbpAvATD95Xl-uxRfFA4IiV992x4GENJlSwSR0lNLbMVR4IiehPFx63iupgEciUk0JQExGQbL-hLmE9vC7OrkLVymWDGfajarh2AYMV4PPhxrTQd2304vzSC9NtkShFAxa6zrZpXtd4VQpOAkQO~ghJ~eo4wEoEzAdBpLWOegn-~wek5qP6MQitTOcequuzt8i1w__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){.r-stretch width="300"}
+
+------------------------------------------------------------------------
+
+## Resultados: Escala Fina y Endogamia {.smaller}
+
+### Nivel de Aldea (Village)
+
+-   **Migración:** El movimiento es evidente entre algunas aldeas, mientras que otras parecen más aisladas.
+-   **Aldeas Opuestas en Guatemala:** Dos aldeas cercanas en Jutiapa, Guatemala, mostraron patrones genéticos contrastantes:
+    -   **El Chaperno:** Muestra la **mayor diversidad genética** y algunos de sus especímenes se parecen a especímenes de El Salvador.
+    -   **El Carrizal:** Muestra la **menor variación genética** y sus especímenes forman su propio clúster separado.
+
+![Grupos genéticos.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig2.jpeg?Expires=1763593476&Signature=49xdxchexulVEY4Bl0TzcB3qCJfjThOFEC~VTehEIF93y8OZcSj3~frEBWOgRmnFnGOuDadK23W-ksohspwgfMXuVGKBmU7IFXCj13YPVVVFMlFY9Qg1Z8Zo-91niK9iOfJ4MfuHbzhXfHDsDObwgCmMG-3bZ4yE~R7RcSQYGLwyZ08iPuOqZ9YXXRQ4emDIn2q9DxXBM0ZsD2-LkcYDqRWpy-E33eJrZ8kRQE-W7-Pqu8vdtc7dYzeTS3nr3gWD0CicWhgaK4tQNWLaAyeLokL0RXdJZ5SUvvNz8eqG7L2amybf46~1TmitjQOkH55TXy7CeIpI531VJCgofFXesQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width="250"}
+
+## Resultados: Escala Fina y Endogamia {.smaller}
+
+### Nivel de Aldea (Village)
+
+-   **Flujo entre El Chaperno y El Salvador:** El flujo genético entre El Chaperno (Guatemala) y El Salvador es consistente con estudios previos. Esto podría deberse a factores sociales como el transporte pasivo de vectores a través del intercambio de bienes (ej. madera o ropa).
+
+![Grupos genéticos.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig2.jpeg?Expires=1763593476&Signature=49xdxchexulVEY4Bl0TzcB3qCJfjThOFEC~VTehEIF93y8OZcSj3~frEBWOgRmnFnGOuDadK23W-ksohspwgfMXuVGKBmU7IFXCj13YPVVVFMlFY9Qg1Z8Zo-91niK9iOfJ4MfuHbzhXfHDsDObwgCmMG-3bZ4yE~R7RcSQYGLwyZ08iPuOqZ9YXXRQ4emDIn2q9DxXBM0ZsD2-LkcYDqRWpy-E33eJrZ8kRQE-W7-Pqu8vdtc7dYzeTS3nr3gWD0CicWhgaK4tQNWLaAyeLokL0RXdJZ5SUvvNz8eqG7L2amybf46~1TmitjQOkH55TXy7CeIpI531VJCgofFXesQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width="250"}
+
+## Nivel de Hogar y Endogamia
+
+-   **Endogamia Significativa:** Se observó baja diversidad genética (baja heterocigosidad) dentro de los departamentos.
+    -   La heterocigosidad observada (Ho) fue significativamente menor que la esperada (Hs), lo que indica una **notable endogamia** (apareamiento no aleatorio) dentro de los departamentos.
+    -   El coeficiente de endogamia (**F~IS~**) fue estadísticamente significativo en todos los departamentos.
+
++-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
+| **Departmento**                   | **H~O~** | **95% C.I.**  | **H~S~** | **95% C.I.**  | ***F***~**IS**~ | **95% C.I.**  | **Probabilidad\ | **Probabilidad\ |
+|                                   |          |               |          |               |                 |               | H~O~ = H~S~**   | *F*~IS~ = 0**   |
++:==================================+:=========+:==============+:=========+:==============+:================+:==============+:================+:================+
+| Chiquimula, Guatemala             | 0.0740   | 0.0625\       | 0.1259   | 0.1100 0.1418 | 0.2438          | 0.1505 0.3371 | 2.23e−05        | 3.39e−15        |
+|                                   |          | 0.0855        |          |               |                 |               |                 |                 |
++-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
+| Jutiapa, Guatemala                | 0.0800   | 0.0732 0.0869 | 0.1367   | 0.1270 0.1473 | 0.2832          | 0.2211 0.3452 | 8.51e−13        | \< 1.0e−15      |
++-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
+| Santa Ana, El Salvador            | 0.0948   | 0.0873 0.1023 | 0.1421   | 0.1335 0.1531 | 0.3100          | 0.2483 0.3717 | 4.32e−10        | \< 1.0e−15      |
++-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
+| Sonsonate-Ahuachapán, El Salvador | 0.0761   | 0.0686 0.0835 | 0.1348   | 0.1241 0.1451 | 0.3277          | 0.2490 0.4064 | 8.40e−15        | \<1.0e−15       |
++-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
+
+: Estadísticas entre departamentos
+
+[![Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig4.jpeg?Expires=1763593476&Signature=RTG9ZbEOM023k~DqBnOx7C6u8gnAo9mrMzUDRyG6fVCuJxSGlCCtwhOraoRRqTroOKdZJB6M38GODbIAhxpVsnavzRTFkRopD~pK61gkxJG6HPoB9AXpXvRHq8fiFw~ngJMBwcmOeL3j1tLgDYeahqO3msOK2Bg9mT74Fs5MCm0LUZdGiUIxQqAITjJFAI95AN719iv-aQFOXBYi-YPJ05N4IA5E8JhyYDzbonoNrGkiMrRGmpefblu6OX4eolPG8cwnz~Odz6~x1XDOxNjyORMr884VvHgGO~7YxDfjfbwyQEGpDJQr4t-QZh1fNcTwB85X1-qfMDKYwzm4aAownA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://academic.oup.com/jme/article/61/6/1309/7708333)
+
+## Nivel de Hogar y Endogamia
+
+-   **Estructura de Hogar:** A nivel de hogar, se observó una **fuerte estructura genética**. Los especímenes recolectados en la misma casa mostraron el mayor grado de parentesco (solo disponible para Guatemala).
+
+[![Dendrograma de parentesco entre pares de muestras coloreadas por el país.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig6.jpeg?Expires=1763593476&Signature=oH~uuX0U7KwbG87rZ4nSSHRue4OlIcfojFrxWrNdUnQ5taxgp9Yc2JouvZywlLVWB3jhxo302c9ekws7vKqYNfSjrmK9~nfKXnF6nxXNb863AFW56trNit7uBhpqCsDMl9kO-wTjndkWZ9qGjU-UyXJmIuP1DMzrfp~P0iyn4YMPY-6NVR3MHG-VMQvA8NeSzs6kYOVh6wBZHzqNjIqNToK~e6adfVJjvt8NYjNxMWIS3Rk8xNc5eJQbWgGTo2o1V8r12R0~EjHwGQnLyjAzHd95XpXADYQl3ObWsD583dkzHha~Iq-nnG~eGA7MjgPrfbybKjbz~32soAZO1Od8aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://academic.oup.com/jme/article/61/6/1309/7708333)
+
+[![Dendrograma de parentesco entre pare de muestras coloreadas por la aldea.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig7.jpeg?Expires=1763593476&Signature=amEiU02z22tiUdMzF3AAnzke6Rt-dCIm~lbBi9MrcTDoL8wMYFFDDmuGWnvSSLnV7PPHkQLG5wK-6c4Y-LyZGaieiITPGE-LZVHOfBIq1PEjQAYxU4~oa7vUPc-Xni76g0A3bOtMT9fdT2F1X4PbBpP4-FsjBnbja0OeDBmcf2s4mEZdbJJzI~EiVHaTMiLI8xjW7Ea3XX9vLW1PH-qFp3YqsGRKFRFbA9dy9RXogjGJHHXxA0VdXe~Aiq5WuGZJP06-1BNi~nxmGtUNajBUMAGav2eGNbr6v-5FI~P8pFtmT~lPH3Vhmre~mSYXBFXOlLEJx7lF4G5okxsgNNVGfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://academic.oup.com/jme/article/61/6/1309/7708333)
+
+------------------------------------------------------------------------
+
+## Resultados: Influencia Ambiental y Social {.smaller}
+
+### Correlación Ambiental
+
+-   Se encontró que las variables ambientales influyen en la estructura genética.
+-   La **distancia geográfica** mostró la correlación más alta con la distancia genética.
+-   La **elevación** siguió de cerca a la distancia geográfica en correlación significativa.
+-   La **precipitación** también fue significativamente correlacionada, aunque con un valor **p** más bajo.
+
++---------------------+-----------------+--------------------------------------------------------------+
+| **Variable**        | **Correlación** | **Probabilidad usando corrección de Bonferroni (*n* = 4\*)** |
++:====================+:================+:=============================================================+
+| Geographic distance | 0.2164          | \<0.0005                                                     |
++---------------------+-----------------+--------------------------------------------------------------+
+| Elevation           | 0.1741          | \<0.005                                                      |
++---------------------+-----------------+--------------------------------------------------------------+
+| Precipitation       | 0.1638          | \<0.02                                                       |
++---------------------+-----------------+--------------------------------------------------------------+
+| Temperature         | 0.1186          | \> 0.05                                                      |
++---------------------+-----------------+--------------------------------------------------------------+
+|                     |                 |                                                              |
++---------------------+-----------------+--------------------------------------------------------------+
+
+: Correlación entre variables ambientales y distancias genéticas entre pares de individuos.
+
+n = número de comparaciones
+
+## Correlación Ambiental
+
+-   La **temperatura** no mostró una correlación significativa.
+-   **Guatemala vs. El Salvador (Promedios):** Guatemala es en promedio más fría, más seca y con mayor elevación que El Salvador. La diferenciación entre países puede deberse a la selección en estos diferentes ambientes (mayor elevación y menor precipitación en Guatemala).
+
+![Mapa de la región de estudio.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Mapa de la región de estudio."}
+
+## Factores Adicionales
+
+**Factores Sociales:** Se sugiere que los factores sociales pueden estar influyendo en la estructura genética.
+
+-   **Mayor Flujo en El Salvador:** Podría deberse a condiciones ambientales más homogéneas o a un **mayor intercambio social y económico** entre aldeas, facilitando el transporte pasivo.
+
+![Localización de los sitios de muestreo.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig1.jpeg?Expires=1763593476&Signature=ylLW-tnVE0oqSUzMfIiju1RHHR2cXoqmQDgcaWVi5iEDqOhTYHlWu369ncLW0rYqGHijjpi-ICA6l9ZMmz6107cB9Z9sG9xc8bO~FuHPVr5RopXwxb7fJpEeuzMlxstBA4RU2usbXD0bkC5u6RlQ2xzQTZduWyNJtGmhwNPAMe4LFt2RmRLXsfXOiMoieDYvd~FFg9EivA0xT7VSA~mfzu0kUgiLi3uo~9WpK8sHJyZ~JEZhPOqhFNaQ9fQgWEFRecFZx5NPoeyhdcmHnQFTg0WW-MDOvYlU5x5193et~Hg-fkWq1pKNBaKIo0~~pYlxlQS67PpVwPzIWPeFbKcJgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){.r-stretch width="250"}
+
+## Factores Adicionales
+
+-   **Aislamiento en Chiquimula:** El aislamiento genético del departamento de Chiquimula podría deberse a la alta proporción del grupo étnico Chorti, que podría tener menos interacción con poblaciones ladinas (mestizas).
+-   **Aislamiento de El Carrizal:** Su aislamiento de El Chaperno puede deberse a que El Carrizal está a la elevación más alta y una **cordillera montañosa** los separa, actuando como una barrera geográfica.
+
+![Localización de los sitios de muestreo.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig1.jpeg?Expires=1763593476&Signature=ylLW-tnVE0oqSUzMfIiju1RHHR2cXoqmQDgcaWVi5iEDqOhTYHlWu369ncLW0rYqGHijjpi-ICA6l9ZMmz6107cB9Z9sG9xc8bO~FuHPVr5RopXwxb7fJpEeuzMlxstBA4RU2usbXD0bkC5u6RlQ2xzQTZduWyNJtGmhwNPAMe4LFt2RmRLXsfXOiMoieDYvd~FFg9EivA0xT7VSA~mfzu0kUgiLi3uo~9WpK8sHJyZ~JEZhPOqhFNaQ9fQgWEFRecFZx5NPoeyhdcmHnQFTg0WW-MDOvYlU5x5193et~Hg-fkWq1pKNBaKIo0~~pYlxlQS67PpVwPzIWPeFbKcJgw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){.r-stretch width="250"}
+
+------------------------------------------------------------------------
+
+## Conclusiones e Implicaciones para el Control {.smaller}
+
+-   **Estructura Compleja:** Se encontró evidencia de movimiento (migración/flujo genético) en todas las escalas espaciales.
+
+**Control Basado en Datos:** Los resultados sugieren que para un control eficaz de los vectores, el movimiento/flujo genético debe considerarse en **múltiples escalas espaciales** junto con sus factores contribuyentes (ambientales y sociales).
+
+[![Ciclo de vida de *Triatoma dimidiata*](https://upload.wikimedia.org/wikipedia/commons/4/46/Triatoma_dimidiata_life_cycle.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_life_cycle.png)
+
+## Conclusiones e Implicaciones para el Control {.smaller}
+
+**Recomendaciones de Control:**
+
+-   **Entre Países:** El flujo genético limitado entre Guatemala y El Salvador sugiere que el control de *T. dimidiata s.l.* puede llevarse a cabo **independientemente en cada país**, prestando atención al punto de conexión (El Chaperno, Guatemala, y El Salvador).
+-   **Departamentos Aislados:** Departamentos y aldeas aislados (como Chiquimula y El Carrizal) pueden ser tratados individualmente.
+
+[![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tdimidiata-all.jpg){width="300"}](https://commons.wikimedia.org/wiki/File:Tdimidiata-all.jpg)
+
+## Conclusiones e Implicaciones para el Control {.smaller}
+
+-   **Departamentos Conectados:** Los departamentos de El Salvador muestran flujo genético y condiciones ambientales similares, lo que sugiere que el control sería más efectivo si se realiza a escala nacional.
+-   **Nivel de Hogar/Aldea:** Aunque se confirma la baja dispersión a nivel de hogares, hay suficiente movimiento a nivel de aldea de manera que el control debe abarcar la aldea y, potencialmente, escalas geográficas más grandes.
+
+[![Hembra de Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/5/58/Triatoma_dimidiata.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata.png)
+
+## Gracias {.center}
