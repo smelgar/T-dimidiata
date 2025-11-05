@@ -1,1 +1,1 @@
-# T.-dimidiata
+# T-dimidiata
