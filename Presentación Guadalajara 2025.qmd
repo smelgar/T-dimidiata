@@ -293,7 +293,7 @@ n = número de comparaciones
 -   **Entre Países:** El flujo genético limitado entre Guatemala y El Salvador sugiere que el control de *T. dimidiata s.l.* puede llevarse a cabo **independientemente en cada país**, prestando atención al punto de conexión (El Chaperno, Guatemala, y El Salvador).
 -   **Departamentos Aislados:** Departamentos y aldeas aislados (como Chiquimula y El Carrizal) pueden ser tratados individualmente.
 
-[![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tdimidiata-all.jpg){width="300"}](https://commons.wikimedia.org/wiki/File:Tdimidiata-all.jpg)
+[![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/f/f6/Tdimidiata-all.jpg){width="400"}](https://commons.wikimedia.org/wiki/File:Tdimidiata-all.jpg)
 
 ## Conclusiones e Implicaciones para el Control {.smaller}
 
