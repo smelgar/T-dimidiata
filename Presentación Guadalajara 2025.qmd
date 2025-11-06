@@ -215,9 +215,15 @@ Estadísticas entre departamentos
 
 -   **Estructura de Hogar:** A nivel de hogar, se observó una **fuerte estructura genética**. Los especímenes recolectados en la misma casa mostraron el mayor grado de parentesco (solo disponible para Guatemala).
 
-[![Dendrograma de parentesco entre pares de muestras coloreadas por el país.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig6.jpeg?Expires=1763593476&Signature=oH~uuX0U7KwbG87rZ4nSSHRue4OlIcfojFrxWrNdUnQ5taxgp9Yc2JouvZywlLVWB3jhxo302c9ekws7vKqYNfSjrmK9~nfKXnF6nxXNb863AFW56trNit7uBhpqCsDMl9kO-wTjndkWZ9qGjU-UyXJmIuP1DMzrfp~P0iyn4YMPY-6NVR3MHG-VMQvA8NeSzs6kYOVh6wBZHzqNjIqNToK~e6adfVJjvt8NYjNxMWIS3Rk8xNc5eJQbWgGTo2o1V8r12R0~EjHwGQnLyjAzHd95XpXADYQl3ObWsD583dkzHha~Iq-nnG~eGA7MjgPrfbybKjbz~32soAZO1Od8aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://academic.oup.com/jme/article/61/6/1309/7708333)
+::: panel-tabset
+## Color por país
 
-[![Dendrograma de parentesco entre pare de muestras coloreadas por la aldea.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig7.jpeg?Expires=1763593476&Signature=amEiU02z22tiUdMzF3AAnzke6Rt-dCIm~lbBi9MrcTDoL8wMYFFDDmuGWnvSSLnV7PPHkQLG5wK-6c4Y-LyZGaieiITPGE-LZVHOfBIq1PEjQAYxU4~oa7vUPc-Xni76g0A3bOtMT9fdT2F1X4PbBpP4-FsjBnbja0OeDBmcf2s4mEZdbJJzI~EiVHaTMiLI8xjW7Ea3XX9vLW1PH-qFp3YqsGRKFRFbA9dy9RXogjGJHHXxA0VdXe~Aiq5WuGZJP06-1BNi~nxmGtUNajBUMAGav2eGNbr6v-5FI~P8pFtmT~lPH3Vhmre~mSYXBFXOlLEJx7lF4G5okxsgNNVGfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://academic.oup.com/jme/article/61/6/1309/7708333)
+![Dendrograma de parentesco entre pares de muestras coloreadas por el país.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig6.jpeg?Expires=1763593476&Signature=oH~uuX0U7KwbG87rZ4nSSHRue4OlIcfojFrxWrNdUnQ5taxgp9Yc2JouvZywlLVWB3jhxo302c9ekws7vKqYNfSjrmK9~nfKXnF6nxXNb863AFW56trNit7uBhpqCsDMl9kO-wTjndkWZ9qGjU-UyXJmIuP1DMzrfp~P0iyn4YMPY-6NVR3MHG-VMQvA8NeSzs6kYOVh6wBZHzqNjIqNToK~e6adfVJjvt8NYjNxMWIS3Rk8xNc5eJQbWgGTo2o1V8r12R0~EjHwGQnLyjAzHd95XpXADYQl3ObWsD583dkzHha~Iq-nnG~eGA7MjgPrfbybKjbz~32soAZO1Od8aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Dendrograma de parentesco entre pares de muestras coloreadas por el país."}
+
+## Color por aldea
+
+![Dendrograma de parentesco entre pare de muestras coloreadas por la aldea.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig7.jpeg?Expires=1763593476&Signature=amEiU02z22tiUdMzF3AAnzke6Rt-dCIm~lbBi9MrcTDoL8wMYFFDDmuGWnvSSLnV7PPHkQLG5wK-6c4Y-LyZGaieiITPGE-LZVHOfBIq1PEjQAYxU4~oa7vUPc-Xni76g0A3bOtMT9fdT2F1X4PbBpP4-FsjBnbja0OeDBmcf2s4mEZdbJJzI~EiVHaTMiLI8xjW7Ea3XX9vLW1PH-qFp3YqsGRKFRFbA9dy9RXogjGJHHXxA0VdXe~Aiq5WuGZJP06-1BNi~nxmGtUNajBUMAGav2eGNbr6v-5FI~P8pFtmT~lPH3Vhmre~mSYXBFXOlLEJx7lF4G5okxsgNNVGfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Dendrograma de parentesco entre pare de muestras coloreadas por la aldea."}
+:::
 
 ------------------------------------------------------------------------
 
