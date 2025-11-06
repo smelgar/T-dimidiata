@@ -82,7 +82,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-[![Dos especies de *Triatoma* de Guatemala. A y B: *T. dimidiata* de Jutiapa y Huehuetenango, C: *T. huehuetenanguensis.*](https://upload.wikimedia.org/wikipedia/commons/9/9e/Triatoma_%2810.3897-zookeys.820.27258%29_Figure_2.jpg)](https://commons.wikimedia.org/wiki/File:Triatoma_(10.3897-zookeys.820.27258)_Figure_2.jpg)
+[![Dos especies de *Triatoma* de Guatemala. A y B: *T. dimidiata* de Jutiapa y Huehuetenango, C: *T. huehuetenanguensis.*](https://upload.wikimedia.org/wikipedia/commons/9/9e/Triatoma_%2810.3897-zookeys.820.27258%29_Figure_2.jpg){width="700"}](https://commons.wikimedia.org/wiki/File:Triatoma_(10.3897-zookeys.820.27258)_Figure_2.jpg)
 
 ------------------------------------------------------------------------
 
@@ -187,6 +187,9 @@ editor: visual
     -   La heterocigosidad observada (Ho) fue significativamente menor que la esperada (Hs), lo que indica una **notable endogamia** (apareamiento no aleatorio) dentro de los departamentos.
     -   El coeficiente de endogamia (**F~IS~**) fue estadísticamente significativo en todos los departamentos.
 
+::: panel-tabset
+## Cuadro
+
 +-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
 | **Departmento**                   | **H~O~** | **95% C.I.**  | **H~S~** | **95% C.I.**  | ***F***~**IS**~ | **95% C.I.**  | **Probabilidad\ | **Probabilidad\ |
 |                                   |          |               |          |               |                 |               | H~O~ = H~S~**   | *F*~IS~ = 0**   |
@@ -201,9 +204,12 @@ editor: visual
 | Sonsonate-Ahuachapán, El Salvador | 0.0761   | 0.0686 0.0835 | 0.1348   | 0.1241 0.1451 | 0.3277          | 0.2490 0.4064 | 8.40e−15        | \<1.0e−15       |
 +-----------------------------------+----------+---------------+----------+---------------+-----------------+---------------+-----------------+-----------------+
 
-: Estadísticas entre departamentos
+Estadísticas entre departamentos
 
-[![Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig4.jpeg?Expires=1763593476&Signature=RTG9ZbEOM023k~DqBnOx7C6u8gnAo9mrMzUDRyG6fVCuJxSGlCCtwhOraoRRqTroOKdZJB6M38GODbIAhxpVsnavzRTFkRopD~pK61gkxJG6HPoB9AXpXvRHq8fiFw~ngJMBwcmOeL3j1tLgDYeahqO3msOK2Bg9mT74Fs5MCm0LUZdGiUIxQqAITjJFAI95AN719iv-aQFOXBYi-YPJ05N4IA5E8JhyYDzbonoNrGkiMrRGmpefblu6OX4eolPG8cwnz~Odz6~x1XDOxNjyORMr884VvHgGO~7YxDfjfbwyQEGpDJQr4t-QZh1fNcTwB85X1-qfMDKYwzm4aAownA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)](https://academic.oup.com/jme/article/61/6/1309/7708333)
+## Histograma
+
+![Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig4.jpeg?Expires=1763593476&Signature=RTG9ZbEOM023k~DqBnOx7C6u8gnAo9mrMzUDRyG6fVCuJxSGlCCtwhOraoRRqTroOKdZJB6M38GODbIAhxpVsnavzRTFkRopD~pK61gkxJG6HPoB9AXpXvRHq8fiFw~ngJMBwcmOeL3j1tLgDYeahqO3msOK2Bg9mT74Fs5MCm0LUZdGiUIxQqAITjJFAI95AN719iv-aQFOXBYi-YPJ05N4IA5E8JhyYDzbonoNrGkiMrRGmpefblu6OX4eolPG8cwnz~Odz6~x1XDOxNjyORMr884VvHgGO~7YxDfjfbwyQEGpDJQr4t-QZh1fNcTwB85X1-qfMDKYwzm4aAownA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo)." width="700"}
+:::
 
 ## Nivel de Hogar y Endogamia
 
