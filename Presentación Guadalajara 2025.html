@@ -6,8 +6,8 @@
 <script src="Presentación Guadalajara 2025_files/libs/quarto-html/tippy.umd.min.js"></script>
 <link href="Presentación Guadalajara 2025_files/libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="Presentación Guadalajara 2025_files/libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="Presentación Guadalajara 2025_files/libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.7.33">
+<link href="Presentación Guadalajara 2025_files/libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
+  <meta name="generator" content="quarto-1.8.25">
 
   <meta name="author" content="Sergio Melgar, Salvador Castellanos, Lori Stevens, María Carlota Monroy, Patricia L. Dorn">
   <meta name="dcterms.date" content="2025-12-11">
@@ -30,7 +30,7 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="Presentación Guadalajara 2025_files/libs/revealjs/dist/theme/quarto-b50d58a4586432b0937ff55c5374ed9a.css">
+  <link rel="stylesheet" href="Presentación Guadalajara 2025_files/libs/revealjs/dist/theme/quarto-cb1f9a289aebaef4faceaf321097cf5d.css">
   <link href="Presentación Guadalajara 2025_files/libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
   <link href="Presentación Guadalajara 2025_files/libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
   <link href="Presentación Guadalajara 2025_files/libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
@@ -223,7 +223,7 @@ Sergio Melgar, Salvador Castellanos, Lori Stevens, María Carlota Monroy, Patric
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><a href="https://commons.wikimedia.org/wiki/File:Triatoma_(10.3897-zookeys.820.27258)_Figure_2.jpg"><img data-src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Triatoma_%2810.3897-zookeys.820.27258%29_Figure_2.jpg" width="700"></a></p>
-<figcaption>Dos especies de <em>Triatoma</em> de Guatemala. A y B: <em>T. dimidiata</em> de Jutiapa y Huehuetenango, C: <em>T. huehuetenanguensis.</em></figcaption>
+<figcaption>Dos especies de Triatoma de Guatemala. A y B: T. dimidiata de Jutiapa y Huehuetenango, C: T. huehuetenanguensis.</figcaption>
 </figure>
 </div>
 </section>
@@ -236,7 +236,7 @@ Sergio Melgar, Salvador Castellanos, Lori Stevens, María Carlota Monroy, Patric
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><a href="https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_male.png"><img data-src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Triatoma_dimidiata_male.png" width="300"></a></p>
-<figcaption>Macho de <em>Triatoma dimidiata</em></figcaption>
+<figcaption>Macho de Triatoma dimidiata</figcaption>
 </figure>
 </div>
 </section>
@@ -483,12 +483,12 @@ H<sub>O</sub> = H<sub>S</sub></strong></th>
 <li>La <strong>elevación</strong> siguió de cerca a la distancia geográfica en correlación significativa.</li>
 <li>La <strong>precipitación</strong> también fue significativamente correlacionada, aunque con un valor <strong>p</strong> más bajo.</li>
 </ul>
-<table class="caption-top" style="width:99%;">
+<table class="caption-top">
 <caption>Correlación entre variables ambientales y distancias genéticas entre pares de individuos.</caption>
 <colgroup>
-<col style="width: 21%">
-<col style="width: 17%">
-<col style="width: 60%">
+<col style="width: 33%">
+<col style="width: 33%">
+<col style="width: 33%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -560,7 +560,7 @@ H<sub>O</sub> = H<sub>S</sub></strong></th>
 <div class="quarto-figure quarto-figure-center">
 <figure>
 <p><a href="https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_life_cycle.png"><img data-src="https://upload.wikimedia.org/wikipedia/commons/4/46/Triatoma_dimidiata_life_cycle.png" width="300"></a></p>
-<figcaption>Ciclo de vida de <em>Triatoma dimidiata</em></figcaption>
+<figcaption>Ciclo de vida de Triatoma dimidiata</figcaption>
 </figure>
 </div>
 </section>
@@ -786,7 +786,7 @@ H<sub>O</sub> = H<sub>S</sub></strong></th>
         margin: 0.1,
 
         math: {
-          mathjax: 'https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js',
+          mathjax: 'https://cdn.jsdelivr.net/npm/mathjax@2.7.9/MathJax.js',
           config: 'TeX-AMS_HTML-full',
           tex2jax: {
             inlineMath: [['\\(','\\)']],
@@ -860,13 +860,14 @@ H<sub>O</sub> = H<sub>S</sub></strong></th>
           e.clearSelection();
         }
         const getTextToCopy = function(trigger) {
-            const codeEl = trigger.previousElementSibling.cloneNode(true);
-            for (const childEl of codeEl.children) {
-              if (isCodeAnnotation(childEl)) {
-                childEl.remove();
-              }
+          const outerScaffold = trigger.parentElement.cloneNode(true);
+          const codeEl = outerScaffold.querySelector('code');
+          for (const childEl of codeEl.children) {
+            if (isCodeAnnotation(childEl)) {
+              childEl.remove();
             }
-            return codeEl.innerText;
+          }
+          return codeEl.innerText;
         }
         const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
           text: getTextToCopy

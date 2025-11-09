@@ -53,11 +53,11 @@ editor: visual
 
 ::::: columns
 ::: {.column width="50%"}
-![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/8/83/Triatoma_dimidiata-adult.jpg){alt="Triatoma dimidiata" width="400"}
+![Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/8/83/Triatoma_dimidiata-adult.jpg){width="400"}
 :::
 
 ::: {.column width="50%"}
-![Mapa de la región de estudio.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Mapa de la región de estudio."}
+![Mapa de la región de estudio.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 :::
 :::::
 
@@ -82,7 +82,7 @@ editor: visual
 
 ------------------------------------------------------------------------
 
-[![Dos especies de *Triatoma* de Guatemala. A y B: *T. dimidiata* de Jutiapa y Huehuetenango, C: *T. huehuetenanguensis.*](https://upload.wikimedia.org/wikipedia/commons/9/9e/Triatoma_%2810.3897-zookeys.820.27258%29_Figure_2.jpg){width="700"}](https://commons.wikimedia.org/wiki/File:Triatoma_(10.3897-zookeys.820.27258)_Figure_2.jpg)
+[![Dos especies de Triatoma de Guatemala. A y B: T. dimidiata de Jutiapa y Huehuetenango, C: T. huehuetenanguensis.](https://upload.wikimedia.org/wikipedia/commons/9/9e/Triatoma_%2810.3897-zookeys.820.27258%29_Figure_2.jpg){width="700"}](https://commons.wikimedia.org/wiki/File:Triatoma_(10.3897-zookeys.820.27258)_Figure_2.jpg)
 
 ------------------------------------------------------------------------
 
@@ -91,7 +91,7 @@ editor: visual
 -   **Objetivo:** Investigar la **estructura genética** y la influencia de **factores ambientales** en la población de *T. dimidiata s.l.* en la frontera Guatemala-El Salvador.
 -   **Importancia:** Esta es la primera investigación exhaustiva de la estructura genética de *T. dimidiata s.l.* que incluye un alto número de especímenes a lo largo de una amplia área geográfica, utilizando múltiples escalas espaciales y una gran cantidad de marcadores genómicos.
 
-[![Macho de *Triatoma dimidiata*](https://upload.wikimedia.org/wikipedia/commons/9/9a/Triatoma_dimidiata_male.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_male.png)
+[![Macho de Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/9/9a/Triatoma_dimidiata_male.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_male.png)
 
 ## Metodología {.smaller}
 
@@ -139,9 +139,9 @@ editor: visual
 
 -   **Grupos formados en DAPC (K=3):** El análisis de DAPC reveló dos clústeres compuestos exclusivamente por especímenes de cada país (A y C), y un tercer clúster (C, según la Figura 5) con especímenes de **ambos países**.
 
-![DAPC](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig5.jpeg?Expires=1763593476&Signature=E39qgxtrfENiQYhpX2MsvDvEGk5-SElh7MJmHp3doneJq9ZykGHsLpYrhCza0RdFMmkM69YyVB~UWIFmqTu0bbE~ORXq3-tz8pm3ovk25~JZGfZNEszfCDQ310AFOR1GAorwUU-0TAGBrxXZwFp4YqZHeHAkvEGWB-kbmh3VIWTkmwMrk3E54ozjJ3E~VdJFwjR61m5uuAgvQrLRjHAcJd91ht-gcr9KceBH7RPvhhSWwEPgPCmLbzQzKsObsdqyv3qdj8GVbgdrCNl95zCSgiBRoqzZW9UrV-WBXh2QMq3zQhXqtStZfz3X9cmNtY2uK~MhkEXQYLndiznRZtR1DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="DAPC" width="400"}
+![DAPC](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig5.jpeg?Expires=1763593476&Signature=E39qgxtrfENiQYhpX2MsvDvEGk5-SElh7MJmHp3doneJq9ZykGHsLpYrhCza0RdFMmkM69YyVB~UWIFmqTu0bbE~ORXq3-tz8pm3ovk25~JZGfZNEszfCDQ310AFOR1GAorwUU-0TAGBrxXZwFp4YqZHeHAkvEGWB-kbmh3VIWTkmwMrk3E54ozjJ3E~VdJFwjR61m5uuAgvQrLRjHAcJd91ht-gcr9KceBH7RPvhhSWwEPgPCmLbzQzKsObsdqyv3qdj8GVbgdrCNl95zCSgiBRoqzZW9UrV-WBXh2QMq3zQhXqtStZfz3X9cmNtY2uK~MhkEXQYLndiznRZtR1DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width="400"}
 
----
+------------------------------------------------------------------------
 
 ![](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig5.jpeg?Expires=1763593476&Signature=E39qgxtrfENiQYhpX2MsvDvEGk5-SElh7MJmHp3doneJq9ZykGHsLpYrhCza0RdFMmkM69YyVB~UWIFmqTu0bbE~ORXq3-tz8pm3ovk25~JZGfZNEszfCDQ310AFOR1GAorwUU-0TAGBrxXZwFp4YqZHeHAkvEGWB-kbmh3VIWTkmwMrk3E54ozjJ3E~VdJFwjR61m5uuAgvQrLRjHAcJd91ht-gcr9KceBH7RPvhhSWwEPgPCmLbzQzKsObsdqyv3qdj8GVbgdrCNl95zCSgiBRoqzZW9UrV-WBXh2QMq3zQhXqtStZfz3X9cmNtY2uK~MhkEXQYLndiznRZtR1DQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="DAPC" width="500"}
 
@@ -208,7 +208,7 @@ Estadísticas entre departamentos
 
 ## Histograma
 
-![Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig4.jpeg?Expires=1763593476&Signature=RTG9ZbEOM023k~DqBnOx7C6u8gnAo9mrMzUDRyG6fVCuJxSGlCCtwhOraoRRqTroOKdZJB6M38GODbIAhxpVsnavzRTFkRopD~pK61gkxJG6HPoB9AXpXvRHq8fiFw~ngJMBwcmOeL3j1tLgDYeahqO3msOK2Bg9mT74Fs5MCm0LUZdGiUIxQqAITjJFAI95AN719iv-aQFOXBYi-YPJ05N4IA5E8JhyYDzbonoNrGkiMrRGmpefblu6OX4eolPG8cwnz~Odz6~x1XDOxNjyORMr884VvHgGO~7YxDfjfbwyQEGpDJQr4t-QZh1fNcTwB85X1-qfMDKYwzm4aAownA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo)." width="700"}
+![Exceso de loci con menor heterocigocidad observada comparado con la esperada (amarillo).](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig4.jpeg?Expires=1763593476&Signature=RTG9ZbEOM023k~DqBnOx7C6u8gnAo9mrMzUDRyG6fVCuJxSGlCCtwhOraoRRqTroOKdZJB6M38GODbIAhxpVsnavzRTFkRopD~pK61gkxJG6HPoB9AXpXvRHq8fiFw~ngJMBwcmOeL3j1tLgDYeahqO3msOK2Bg9mT74Fs5MCm0LUZdGiUIxQqAITjJFAI95AN719iv-aQFOXBYi-YPJ05N4IA5E8JhyYDzbonoNrGkiMrRGmpefblu6OX4eolPG8cwnz~Odz6~x1XDOxNjyORMr884VvHgGO~7YxDfjfbwyQEGpDJQr4t-QZh1fNcTwB85X1-qfMDKYwzm4aAownA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){width="700"}
 :::
 
 ## Nivel de Hogar y Endogamia
@@ -218,11 +218,11 @@ Estadísticas entre departamentos
 ::: panel-tabset
 ## Color por país
 
-![Dendrograma de parentesco entre pares de muestras coloreadas por el país.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig6.jpeg?Expires=1763593476&Signature=oH~uuX0U7KwbG87rZ4nSSHRue4OlIcfojFrxWrNdUnQ5taxgp9Yc2JouvZywlLVWB3jhxo302c9ekws7vKqYNfSjrmK9~nfKXnF6nxXNb863AFW56trNit7uBhpqCsDMl9kO-wTjndkWZ9qGjU-UyXJmIuP1DMzrfp~P0iyn4YMPY-6NVR3MHG-VMQvA8NeSzs6kYOVh6wBZHzqNjIqNToK~e6adfVJjvt8NYjNxMWIS3Rk8xNc5eJQbWgGTo2o1V8r12R0~EjHwGQnLyjAzHd95XpXADYQl3ObWsD583dkzHha~Iq-nnG~eGA7MjgPrfbybKjbz~32soAZO1Od8aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Dendrograma de parentesco entre pares de muestras coloreadas por el país."}
+![Dendrograma de parentesco entre pares de muestras coloreadas por el país.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig6.jpeg?Expires=1763593476&Signature=oH~uuX0U7KwbG87rZ4nSSHRue4OlIcfojFrxWrNdUnQ5taxgp9Yc2JouvZywlLVWB3jhxo302c9ekws7vKqYNfSjrmK9~nfKXnF6nxXNb863AFW56trNit7uBhpqCsDMl9kO-wTjndkWZ9qGjU-UyXJmIuP1DMzrfp~P0iyn4YMPY-6NVR3MHG-VMQvA8NeSzs6kYOVh6wBZHzqNjIqNToK~e6adfVJjvt8NYjNxMWIS3Rk8xNc5eJQbWgGTo2o1V8r12R0~EjHwGQnLyjAzHd95XpXADYQl3ObWsD583dkzHha~Iq-nnG~eGA7MjgPrfbybKjbz~32soAZO1Od8aQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 ## Color por aldea
 
-![Dendrograma de parentesco entre pare de muestras coloreadas por la aldea.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig7.jpeg?Expires=1763593476&Signature=amEiU02z22tiUdMzF3AAnzke6Rt-dCIm~lbBi9MrcTDoL8wMYFFDDmuGWnvSSLnV7PPHkQLG5wK-6c4Y-LyZGaieiITPGE-LZVHOfBIq1PEjQAYxU4~oa7vUPc-Xni76g0A3bOtMT9fdT2F1X4PbBpP4-FsjBnbja0OeDBmcf2s4mEZdbJJzI~EiVHaTMiLI8xjW7Ea3XX9vLW1PH-qFp3YqsGRKFRFbA9dy9RXogjGJHHXxA0VdXe~Aiq5WuGZJP06-1BNi~nxmGtUNajBUMAGav2eGNbr6v-5FI~P8pFtmT~lPH3Vhmre~mSYXBFXOlLEJx7lF4G5okxsgNNVGfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Dendrograma de parentesco entre pare de muestras coloreadas por la aldea."}
+![Dendrograma de parentesco entre pare de muestras coloreadas por la aldea.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_fig7.jpeg?Expires=1763593476&Signature=amEiU02z22tiUdMzF3AAnzke6Rt-dCIm~lbBi9MrcTDoL8wMYFFDDmuGWnvSSLnV7PPHkQLG5wK-6c4Y-LyZGaieiITPGE-LZVHOfBIq1PEjQAYxU4~oa7vUPc-Xni76g0A3bOtMT9fdT2F1X4PbBpP4-FsjBnbja0OeDBmcf2s4mEZdbJJzI~EiVHaTMiLI8xjW7Ea3XX9vLW1PH-qFp3YqsGRKFRFbA9dy9RXogjGJHHXxA0VdXe~Aiq5WuGZJP06-1BNi~nxmGtUNajBUMAGav2eGNbr6v-5FI~P8pFtmT~lPH3Vhmre~mSYXBFXOlLEJx7lF4G5okxsgNNVGfg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 :::
 
 ------------------------------------------------------------------------
@@ -236,19 +236,13 @@ Estadísticas entre departamentos
 -   La **elevación** siguió de cerca a la distancia geográfica en correlación significativa.
 -   La **precipitación** también fue significativamente correlacionada, aunque con un valor **p** más bajo.
 
-+---------------------+-----------------+--------------------------------------------------------------+
-| **Variable**        | **Correlación** | **Probabilidad usando corrección de Bonferroni (*n* = 4\*)** |
-+:====================+:================+:=============================================================+
-| Geographic distance | 0.2164          | \<0.0005                                                     |
-+---------------------+-----------------+--------------------------------------------------------------+
-| Elevation           | 0.1741          | \<0.005                                                      |
-+---------------------+-----------------+--------------------------------------------------------------+
-| Precipitation       | 0.1638          | \<0.02                                                       |
-+---------------------+-----------------+--------------------------------------------------------------+
-| Temperature         | 0.1186          | \> 0.05                                                      |
-+---------------------+-----------------+--------------------------------------------------------------+
-|                     |                 |                                                              |
-+---------------------+-----------------+--------------------------------------------------------------+
+| **Variable** | **Correlación** | **Probabilidad usando corrección de Bonferroni (*n* = 4\*)** |
+|:---|:---|:---|
+| Geographic distance | 0.2164 | \<0.0005 |
+| Elevation | 0.1741 | \<0.005 |
+| Precipitation | 0.1638 | \<0.02 |
+| Temperature | 0.1186 | \> 0.05 |
+|  |  |  |
 
 : Correlación entre variables ambientales y distancias genéticas entre pares de individuos.
 
@@ -259,7 +253,7 @@ n = número de comparaciones
 -   La **temperatura** no mostró una correlación significativa.
 -   **Guatemala vs. El Salvador (Promedios):** Guatemala es en promedio más fría, más seca y con mayor elevación que El Salvador. La diferenciación entre países puede deberse a la selección en estos diferentes ambientes (mayor elevación y menor precipitación en Guatemala).
 
-![Mapa de la región de estudio.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA){alt="Mapa de la región de estudio."}
+![Mapa de la región de estudio.](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/jme/61/6/10.1093_jme_tjae066/1/m_tjae066_iffig1.jpeg?Expires=1763593476&Signature=a-qydrgagr083WRj2-RrbYeW1Fpdh-0IxnCJRC5xgKhSSCva2BQUp9HnnaGwkv1e8Q0ACANmHeqOA1iu0tVfWQBp8VmnCLGO5HsO3elnfG5k3~WL60MTVU4EFR43Z1UA8oJxHad6zBLIAH6FH7MvlAPqSCOC59za60widZjwBgNHTN~CWCmIgE6qpTP6-9ghn40-GQ9FfaShrFAvANooHzavXPnuVqKHIu-6OAUv97WPl64pC5nMeU5HNsg2-XQaO4IVGUe0cBCEzm4iEYWxFkFNmEVFBD9v2Yp303Zxr6ahDqsBlOwOdK40VxT54~hVSLTQMltUUjErX-UBxvjeVA__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
 
 ## Factores Adicionales
 
@@ -284,7 +278,7 @@ n = número de comparaciones
 
 **Control Basado en Datos:** Los resultados sugieren que para un control eficaz de los vectores, el movimiento/flujo genético debe considerarse en **múltiples escalas espaciales** junto con sus factores contribuyentes (ambientales y sociales).
 
-[![Ciclo de vida de *Triatoma dimidiata*](https://upload.wikimedia.org/wikipedia/commons/4/46/Triatoma_dimidiata_life_cycle.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_life_cycle.png)
+[![Ciclo de vida de Triatoma dimidiata](https://upload.wikimedia.org/wikipedia/commons/4/46/Triatoma_dimidiata_life_cycle.png){width="300"}](https://commons.wikimedia.org/wiki/File:Triatoma_dimidiata_life_cycle.png)
 
 ## Conclusiones e Implicaciones para el Control {.smaller}
 
