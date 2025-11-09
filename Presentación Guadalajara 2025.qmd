@@ -8,7 +8,7 @@ title-slide-attributes:
 subtitle: "Análisis a escalas geográficas en un área prioritaria para el control"
 author: "Sergio Melgar, Salvador Castellanos, Lori Stevens, María Carlota Monroy, Patricia L. Dorn"
 institute: "Universidad de San Carlos de Guatemala, University of Vermont, Loyola University New Orleans, Journal of Medical Entomology, 61(6), 2024"
-date: "12/11/2025"
+#date: "12/11/2025"
 fontsize: 2.0em
 format: 
   revealjs:
@@ -236,13 +236,19 @@ Estadísticas entre departamentos
 -   La **elevación** siguió de cerca a la distancia geográfica en correlación significativa.
 -   La **precipitación** también fue significativamente correlacionada, aunque con un valor **p** más bajo.
 
-| **Variable** | **Correlación** | **Probabilidad usando corrección de Bonferroni (*n* = 4\*)** |
-|:---|:---|:---|
-| Geographic distance | 0.2164 | \<0.0005 |
-| Elevation | 0.1741 | \<0.005 |
-| Precipitation | 0.1638 | \<0.02 |
-| Temperature | 0.1186 | \> 0.05 |
-|  |  |  |
++---------------------+-----------------+--------------------------------------------------------------+
+| **Variable**        | **Correlación** | **Probabilidad usando corrección de Bonferroni (*n* = 4\*)** |
++:====================+:================+:=============================================================+
+| Geographic distance | 0.2164          | \<0.0005                                                     |
++---------------------+-----------------+--------------------------------------------------------------+
+| Elevation           | 0.1741          | \<0.005                                                      |
++---------------------+-----------------+--------------------------------------------------------------+
+| Precipitation       | 0.1638          | \<0.02                                                       |
++---------------------+-----------------+--------------------------------------------------------------+
+| Temperature         | 0.1186          | \> 0.05                                                      |
++---------------------+-----------------+--------------------------------------------------------------+
+|                     |                 |                                                              |
++---------------------+-----------------+--------------------------------------------------------------+
 
 : Correlación entre variables ambientales y distancias genéticas entre pares de individuos.
 
